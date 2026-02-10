@@ -44,7 +44,7 @@ Once your Linux is running, ensure you have internet access:\
 ## Preparations: Dummy File
 Before starting the workshop, download the required dummy file:
 ```bash
-wget [https://gist.githubusercontent.com/agusdarma-lab/abe7212826f8f96fb203cef828f1ac5c/raw/78f706ba1396a76527742b0076044dc459156479/dummy.txt](https://gist.githubusercontent.com/agusdarma-lab/abe7212826f8f96fb203cef828f1ac5c/raw/78f706ba1396a76527742b0076044dc459156479/dummy.txt)
+wget https://gist.githubusercontent.com/agusdarma-lab/abe7212826f8f96fb203cef828f1ac5c/raw/78f706ba1396a76527742b0076044dc459156479/dummy.txt
 ```
 Verify the file exists by typing ls.
 
